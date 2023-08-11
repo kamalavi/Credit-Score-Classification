@@ -1,11 +1,12 @@
 # Credit Score Classification Model
 
-This repository contains code and resources for a Credit Score Classification Model. The model is designed to predict the creditworthiness of individuals based on various features and attributes. It aims to help lenders and financial institutions assess the risk associated with potential borrowers, enabling them to make more informed decisions regarding credit approvals.
+This repository contains code and resources for a Credit Score Classification Model. The model is designed to predict the creditworthiness of individuals based on various features and attributes.
+
+Please use this link to view the full interactive notebook code and output: [Credit-Score-Classification](https://nbviewer.org/github/kamalavi/Credit-Score-Classification/blob/main/credit_score_classification.ipynb) 
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Jupyter Notebook](#jupyter-notebook)
 - [Data](#data)
 - [Data Cleaning](#data-cleaning)
 - [Data Visualization](#data-visualization)
@@ -20,12 +21,6 @@ This repository contains code and resources for a Credit Score Classification Mo
 A credit score classification model is an essential tool for financial institutions to evaluate the creditworthiness of individuals seeking loans or credit products. By utilizing machine learning techniques, this model provides a predictive solution to categorize applicants into different credit risk categories, such as low-risk, medium-risk, and high-risk.
 
 The model is built using state-of-the-art machine learning algorithms, including Decision Trees, K-Nearest Neighbors (KNN), and Random Forest. The combination of these models allows for robust and accurate predictions. The repository provides all the necessary code and resources to clean the data, visualize its distribution, and train the credit score classification model using various algorithms.
-
-## Jupyter Notebook
-
-Please use this link view the full interactive notebook code and output: [Credit-Score-Classification](https://nbviewer.org/github/kamalavi/Credit-Score-Classification/blob/main/credit_score_classification.ipynb) 
-
-Unfortunately, Github truncates the interactive notebook file, not allowing users to see full lines of code, data tables and visualizations. 
 
 ## Data
 
