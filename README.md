@@ -12,8 +12,7 @@ This repository contains code and resources for a Credit Score Classification Mo
 - [Data Visualization](#data-visualization)
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
-- [Contributing](#contributing)
-
+  
 ## Introduction
 
 A credit score classification model is an essential tool for financial institutions to evaluate the creditworthiness of individuals seeking loans or credit products. By utilizing machine learning techniques, this model provides a predictive solution to categorize applicants into different credit risk categories, such as low-risk, medium-risk, and high-risk.
